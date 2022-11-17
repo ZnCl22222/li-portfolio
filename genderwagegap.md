@@ -12,3 +12,15 @@ From the Stephen Few's methodology, we were able to re-evaluate this visualizati
   - Perceptibility
   - Truthfulness
   - Intuitiveness
+- Emotive
+  - Aesthetics
+  - Engagement
+
+According to our criticize, the intuitiveness, truthfulness, and completeness of the original visualization are already well done, and we need to improve mainly in other areas:
+- Usefulness: In order to increase the usefulness of the data, we decided to get the data on women's income as percentage of men's income from the original data, which can be more intuitive for the audience to recognize the difference between women's and men's income.
+- Perceptibility: In order to make it easier for the audience to compare the magnitude of gender differences between occupations, we chose to rank the data in order of the magnitude of gender differences, from largest to smallest.
+- Aesthetics: I will use contrasting colors to label males and females, as well as using gray to reflect the difference between male and female wages.
+- Engagement: I will display a summary line of text or number somewhere in the visualization to achieve the interaction with the user and enhance the user experience. The user only needs to select a certain occupation to get information about the difference in salary between men and women and the specific salary of that occupation.
+
+# Sketch out a solution
+![IMG_4453](https://user-images.githubusercontent.com/100179117/202339988-f6dca6a2-1ba9-4b80-8fab-5e691cfe42e9.jpg)
