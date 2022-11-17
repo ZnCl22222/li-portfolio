@@ -32,7 +32,7 @@ Here are the changes I made：
 - Add a summary session to better inform audience
 
 # Test the solution
-I shared my sketch with three classmates and received the following comments;
+I shared my sketch with three classmates and received the following comments:
 - Solid lines can be added in the blanks to represent the part that has been achieved, in contrast to the gap represented by the gray part.
 - The title is a bit too long, can be changed to a shorter one.
 - Rethink about the form of the pop-up box, or perhaps just change it to a one-sentence summary.
