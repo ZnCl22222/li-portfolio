@@ -11,4 +11,5 @@ Being a non-designer, my previous data visualization process has always been bas
 ## Data visualization critiques
 ## Data visualization workshops
 ### [Government Debt Visualization](/govdebtviz.md)
+### [Gender Wage Gap](/genderwagegap.md)
 ## Final project
