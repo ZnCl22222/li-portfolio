@@ -7,8 +7,8 @@ I chose this visualization because I am personally interested in gender issues, 
 # Critique the Data Visualization
 From the Stephen Few's methodology, we were able to re-evaluate this visualization in two major aspects and seven minor aspects.
 - Informative
--- Usefulness
--- Completeness
--- Perceptibility
--- Truthfulness
--- Intuitiveness
+  - Usefulness
+  - Completeness
+  - Perceptibility
+  - Truthfulness
+  - Intuitiveness
