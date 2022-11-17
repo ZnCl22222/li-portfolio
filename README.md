@@ -10,6 +10,7 @@ Being a non-designer, my previous data visualization process has always been bas
 # Portfolio
 ## Data visualization Demo
 ### [King County Demo](/kingcountydemo.md)
+### [Trust in Media](/trustinmedia.md)
 ## Data visualization
 ### [Government Debt Visualization](/govdebtviz.md)
 ### [Gender Wage Gap](/genderwagegap.md)
