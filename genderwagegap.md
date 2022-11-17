@@ -24,3 +24,33 @@ According to our criticize, the intuitiveness, truthfulness, and completeness of
 
 # Sketch out a solution
 ![IMG_4453](https://user-images.githubusercontent.com/100179117/202339988-f6dca6a2-1ba9-4b80-8fab-5e691cfe42e9.jpg)
+
+Here are the changes I made：
+- Derive new variable from the original data and visualize the new variable
+- Sort by magnitude of gender gap
+- Change colors
+- Add a summary session to better inform audience
+
+# Test the solution
+I shared my sketch with three classmates and received the following comments;
+- Solid lines can be added in the blanks to represent the part that has been achieved, in contrast to the gap represented by the gray part.
+- The title is a bit too long, can be changed to a shorter one.
+- Rethink about the form of the pop-up box, or perhaps just change it to a one-sentence summary.
+
+# Learn from feedback
+- Change to a short and clear title
+- Add a summary line at the beginning so that the audience can figure out what I'm trying to convey with minimal effort
+- Adding a solid line is a good suggestion as well, but I have not done so for now due to the difficulty in implementing it in tableau.
+
+# Final data visualization
+<div class='tableauPlaceholder' id='viz1668653247386' style='position: relative'><noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Genderwagegap_16686532358570&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Genderwagegap_16686532358570&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Genderwagegap_16686532358570&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1668653247386');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1301px';vizElement.style.height='779px';} 
+  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1301px';vizElement.style.height='779px';} 
+  else { vizElement.style.width='100%';vizElement.style.height='1327px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
