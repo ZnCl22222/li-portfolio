@@ -8,6 +8,7 @@ First I will use a series of visual data on menstruation to construct basic know
 - A woman will have her period more than 450 times in her lifetime
 - Women menstruate for about 10 years of their lives
 - A woman will consume 11,000 tampons in her lifetime
+
 With the above data, the audience will learn that menstruation is not a taboo and insignificant topic, but an important issue for all women.
 
 # Initial Sketches
