@@ -14,10 +14,23 @@ With the above data, the audience will learn that menstruation is not a taboo an
 ### Cognitive Poverty
 In this section I will discuss menstrual shame. Even though menstruation is such a normal physiological phenomenon (as described in the previous section), it is still taboo and even a disease in some disadvantaged regions. 
 I will begin with case studies from some countries, such as Nepal, where women have to leave their homes during menstruation and go to menstrual huts to spend their periods. In China, women who are menstruating are considered "unclean" and are not allowed to attend funerals.
+
 After that I will show some data from the survey, such as whether you can talk openly about menstruation, the percentage of women who feel shame, the percentage of men who joke about their partner's menstruation, the percentage of women who have hidden tampons, etc. With this data, I expect the audience to realize that menstrual shame is a real thing, and that there are many women who are feeling pressure and even verbal violence because of this female specific biological phenomenon. And it's not just about women, it's about the oppression of women brought on by men and society as a whole.
+
+### Economics Poverty
+In this section, I will show how expensive sanitary products are by starting with the current global prices of sanitary products and plotting visualizations such as the ranking of sanitary napkin prices by country and the ratio of sanitary product prices to gdp. Then I will present the reasons for the high price of sanitary napkins, namely the expensive sanitary napkin tax. And plot an overview of sanitary napkin taxes around the world.
+
+After understanding how expensive sanitary napkins are, I will present demographic information such as the number of women suffering from menstrual poverty worldwide, regional distribution, etc. I will also present their current situation, such as the use of products like newspapers and cloths instead of sanitary napkins, and the risk of developing gynecological diseases.
+
+### Call for Action
+The visibility of menstrual poverty has increased in recent years, but it is not yet enough. What we can do as ordinary people includes discussing the issue with your friends and family, stop joking about menstruation, actively participate in menstruation-related charity events, and donate to make clean sanitary napkins available to women in backward areas.
+
 # Initial Sketches
 
 # Data
 https://ureport.in/opinion/4258/
+https://nypost.com/2018/01/03/nearly-half-of-women-have-experienced-period-shaming/
 # Method and Medium
 I will be using Tableau to complete my entire visualization and using Shorthand to build a story. Since the data may need cleaning as well as pre-processing, I will mainly use excel and python to pre-process the data or directly get the numbers needed to make the story.
+
+For final presentation, I would like to give a brief review of my project using Shorthand.
