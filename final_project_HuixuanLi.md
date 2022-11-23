@@ -18,7 +18,7 @@ I will begin with case studies from some countries, such as Nepal, where women h
 After that I will show some data from the survey, such as whether you can talk openly about menstruation, the percentage of women who feel shame, the percentage of men who joke about their partner's menstruation, the percentage of women who have hidden tampons, etc. With this data, I expect the audience to realize that menstrual shame is a real thing, and that there are many women who are feeling pressure and even verbal violence because of this female specific biological phenomenon. And it's not just about women, it's about the oppression of women brought on by men and society as a whole.
 
 ### Economics Poverty
-In this section, I will show how expensive sanitary products are by starting with the current global prices of sanitary products and plotting visualizations such as the ranking of sanitary napkin prices by country and the ratio of sanitary product prices to gdp. Then I will present the reasons for the high price of sanitary napkins, namely the expensive sanitary napkin tax. And plot an overview of sanitary napkin taxes around the world.
+In this section, I will show how expensive sanitary products are by starting with the current global prices of sanitary products and plotting visualizations such as the ranking of sanitary napkin prices by country and the ratio of sanitary product prices to GDP. Then I will present the reasons for the high price of sanitary napkins, namely the expensive sanitary napkin tax. And plot an overview of sanitary napkin taxes around the world.
 
 After understanding how expensive sanitary napkins are, I will present demographic information such as the number of women suffering from menstrual poverty worldwide, regional distribution, etc. I will also present their current situation, such as the use of products like newspapers and cloths instead of sanitary napkins, and the risk of developing gynecological diseases.
 
@@ -26,6 +26,7 @@ After understanding how expensive sanitary napkins are, I will present demograph
 The visibility of menstrual poverty has increased in recent years, but it is not yet enough. What we can do as ordinary people includes discussing the issue with your friends and family, stop joking about menstruation, actively participate in menstruation-related charity events, and donate to make clean sanitary napkins available to women in backward areas.
 
 # Initial Sketches
+
 
 # Data
 https://ureport.in/opinion/4258/
