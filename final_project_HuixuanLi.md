@@ -28,7 +28,7 @@ The visibility of menstrual poverty has increased in recent years, but it is not
 # Initial Sketches
 ![无标题的笔记本-10](https://user-images.githubusercontent.com/100179117/203637237-bbdcd531-7201-4ffb-962d-6347421ad90d.jpg)
 ![无标题的笔记本-11](https://user-images.githubusercontent.com/100179117/203637251-5713de0d-edb0-4daf-8cc9-c01fb0a86e8e.jpg)
-![无标题的笔记本-12](https://user-images.githubusercontent.com/100179117/203637265-202ee712-7ac5-45f5-9b00-bc11781a87f7.jpg)
+![无标题的笔记本-12](https://user-images.githubusercontent.com/100179117/203637445-c5c3212b-58aa-4db4-8149-c4fa114fdc77.jpg)
 
 # Data
 https://ureport.in/opinion/4258/
