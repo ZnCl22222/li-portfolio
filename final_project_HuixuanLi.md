@@ -26,7 +26,9 @@ After understanding how expensive sanitary napkins are, I will present demograph
 The visibility of menstrual poverty has increased in recent years, but it is not yet enough. What we can do as ordinary people includes discussing the issue with your friends and family, stop joking about menstruation, actively participate in menstruation-related charity events, and donate to make clean sanitary napkins available to women in backward areas.
 
 # Initial Sketches
-
+![无标题的笔记本-10](https://user-images.githubusercontent.com/100179117/203637237-bbdcd531-7201-4ffb-962d-6347421ad90d.jpg)
+![无标题的笔记本-11](https://user-images.githubusercontent.com/100179117/203637251-5713de0d-edb0-4daf-8cc9-c01fb0a86e8e.jpg)
+![无标题的笔记本-12](https://user-images.githubusercontent.com/100179117/203637265-202ee712-7ac5-45f5-9b00-bc11781a87f7.jpg)
 
 # Data
 https://ureport.in/opinion/4258/
