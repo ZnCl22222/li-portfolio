@@ -1,3 +1,8 @@
+# Welcome to Part I of My Final Project
+### Back to Home Page: [Home Page](/README.md)
+### Proceed to Part II: [Final Project Part II](/final_project_HuixuanLi.md)
+### Proceed to Part III: [Final Project Part III](/final_project3_HuixuanLi.md)
+
 # Outline
 ## Summary
 In the year 2022, menstrual poverty is still widespread today. This project will focus on two aspects of menstrual poverty: cognitive poverty and economic poverty. Cognitive poverty leads to socio-cultural shame and taboos about menstruation, which perpetuates the invisible environmental pressure on women. Economic poverty, on the other hand, can lead to difficulties in accessing physiological health knowledge and menstrual hygiene products, posing a threat to women's health.
