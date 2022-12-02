@@ -16,7 +16,7 @@ According to the target audience, I interviewed mainly women who are concerned a
 ### Interview script
 | Categories | Questions |
 | ------------- | ------------- |
-| Story-telling & Engagement  | 1. What story do you think this site is telling？ <br> 2. Have you learned something from the website? <br> 3. What is your previous attitude towards period before viewing the website? And what is the current attitude? Any differences? |
+| Story-telling & Engagement  | 1. What story do you think this site is telling？ <br> 2. Which part of it impressed you the most? <br> 3. Have you learned something from the website? <br> 4. What is your previous attitude towards period before viewing the website? And what is the current attitude? Any differences? |
 | Design & Aesthetics | 1. Tell me something you like/dislike about the color & layout <br> 2. Are the visualizations clear in what they are showing? Any suggestions on how to make improvements? |
 | Completeness | 1. Is the logical structure clear, and are the connecting parts between different sections clear? <br> 2. Is there enough evidence to support the main point? <br> 3. Is there something you want to know but not covered in the visualization？ |
 
