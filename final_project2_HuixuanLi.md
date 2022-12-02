@@ -4,6 +4,7 @@
 ### Proceed to Part III: [Final Project Part III](/final_project3_HuixuanLi.md)
 
 ## Wireframes and storyboards
+[Shorthand wireframe](https://preview.shorthand.com/7kGpDrXavUOKZPg9)
 
 ## User research and interviews
 ### Target audience 
