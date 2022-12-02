@@ -16,3 +16,4 @@ Being a non-designer, my previous data visualization process has always been bas
 ### [Gender Wage Gap](/genderwagegap.md)
 ## Final project
 ### [Final Project Part I](/final_project_HuixuanLi.md)
+### [Final Project Part II](/final_project2_HuixuanLi.md)
