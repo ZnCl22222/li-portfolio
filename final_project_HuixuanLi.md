@@ -1,6 +1,6 @@
 # Welcome to Part I of My Final Project
 ### Back to Home Page: [Home Page](/README.md)
-### Proceed to Part II: [Final Project Part II](/final_project_HuixuanLi.md)
+### Proceed to Part II: [Final Project Part II](/final_project2_HuixuanLi.md)
 ### Proceed to Part III: [Final Project Part III](/final_project3_HuixuanLi.md)
 
 # Outline
