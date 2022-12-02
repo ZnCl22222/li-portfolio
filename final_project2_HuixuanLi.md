@@ -14,6 +14,7 @@ General public. The primary goal is to bring the issue to the attention of women
 According to the target audience, I primarily interviewed women who were concerned about or experienced menstrual shame, as well as men who were completely unaware of menstruation and men who heard about the topic. The main interviewers were classmates and friends, etc.
 
 ### Interview script
+
 | Categories | Questions |
 | ------------- | ------------- |
 | Story-telling & Engagement  | 1. What story do you think this site is telling？ <br> 2. Which part of it impressed you the most? <br> 3. Have you learned something from the website? <br> 4. What is your previous attitude towards period before viewing the website? And what is the current attitude? Any differences? |
@@ -21,6 +22,7 @@ According to the target audience, I primarily interviewed women who were concern
 | Completeness | 1. Is the logical structure clear, and are the connecting parts between different sections clear? <br> 2. Is there enough evidence to support the main point? <br> 3. Is there something you want to know but not covered in the visualization？ |
 
 ### Interview records
+
 | Questions | Interviewer 1 <br> Gender: Male <br> Attitude: Concerned about Menstruation | Interviewer 2 <br> Gender: Female <br> Attitude: Experienced Period shame and concerned about menstruation | Interviewer 3 <br> Gender: Female <br> Attitude: Experienced Period shame and concerned about menstruation | Interviewer 4 <br> Gender: Male <br> Attitude: Unaware of menstruation | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1. What story do you think this site is telling？ | It explains Period Shaming and Period Poverty and how serious they are. And it reminds people to be concerned about these problems. | It talks about period shaming and obstacles of access to menstrual products. | About the period shame& poverty. | Period shame and Period poverty. |
