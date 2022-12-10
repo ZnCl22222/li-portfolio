@@ -5,6 +5,19 @@
 
 # [Final Data Story](https://carnegiemellon.shorthandstories.com/period-poverty-in-us/index.html)
 
+# Summary
+## Target Audience
+The target audience in the end was to add government departments to the general public mentioned by partii before, and to adjust the overall structure to be more narrative in terms of economics, legislation, etc. The reason for this change was mainly to enable the non-menstruators to feel the pain of menstruators from the perspective that menstrual poverty is an offense to basic human rights, rather than being limited to the aspect of menstrual shame as before.
+
+In addition, I adjusted the audience to urge the government to pay attention to the topic by telling more about the current status of the legislation, and to make people aware of the inadequacy of the current legislation in order to collectively promote the passage of more menstrual equity related bills that will substantially change the issue rather than superficially change the perception.
+
+## Changes and Updates
+Based on the feedback I received in part II, I made changes in several areas. I added subheadings and explanations to the visualization so that the audience could understand what I was trying to convey just by looking at the visualization without any voice explanation. For the detailed explanation of the tampon tax, I chose to limit the narrative to the U.S. and go into depth by comparing the legislation in each state. To make it more engaging for men, I focused the entire story on legislation rather than on aspects that men cannot relate to, such as the conceptual aspects of menstrual shame. In addition, I tried to replace tampons with toilet paper in the menstrual shame section and to expand it to surrounding women such as mothers and sisters to try to get non-menstruating people to relate.
+
+I also made adjustments to the call to action section with audience segmentation so that each audience can find something they can do. Also I have listed some of the specific bills to address menstrual poverty in the call to action section so that the government and people can see what appropriate bills have not been passed that need attention. Also, I made a very detailed call to action in the section for menstruators, all of which can be done immediately the next time they get their period, which I believe will make a difference in menstrual shame.
+
+My adaptation of the whole story ended up being a discussion of period poverty only, because I realized in my communication with my teaching assistant that menstrual shame and menstrual poverty are inextricably linked, and that menstrual shame happens to be the main reason why menstrual poverty is so difficult to address. Therefore I ended up including menstrual shame as a small section and removed the well-received World Menstrual Shame at a Glance section, as I am currently limited to the United States. If I have the chance afterwards, I will try to expand this visualization to the world for a more complete narrative.
+
 # References
 1. Baltic dry index index (badi). Investing.com. (n.d.). Retrieved December 9, 2022, from https://www.investing.com/indices/baltic-dry 
 2. Brannagan, T. (2018, September 19). How you can overcome period shame. Thinx. Retrieved December 9, 2022, from https://www.thinx.com/thinx/blogs/periodical/archive/overcome-period-shame-swns-infographic 
